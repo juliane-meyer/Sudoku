@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1653487463 source:c:\users\julianemeyer\documents\sudoku\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1653993602 source:c:\users\julim\documents\sudoku\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1655063790 source:c:\users\julianemeyer\downloads\sudoku-main\sudoku-main\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
